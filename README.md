@@ -1,5 +1,5 @@
-# Project Name
-Lending Club Case Study
+# Lending Club Case Study
+Analyse lending club data to make them more profitable.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,11 +11,11 @@ The purpose of this study is to analyze this data and identify the driving fact
 
 
 ## Conclusions
-Based on the analysis, we make following recommendations:
-Grades/Sub-grades : Loans applications with grades G & F should be scrutinized more carefully.
-Employment Length: Loans to customers with no employment history should be given considering their future prospects to repay.
-Purpose: Background and financials of Small Businesses should be verified more stringently before approval
-Debt-to-income ratio: A threshold should be established for debt-to-income ratio, above which loans should not be granted.
+### Based on the analysis, we make following recommendations:
+##### Grades/Sub-grades : Loans applications with grades G & F should be scrutinized more carefully.
+##### Employment Length: Loans to customers with no employment history should be given considering their future prospects to repay.
+##### Purpose: Background and financials of Small Businesses should be verified more stringently before approval
+##### Debt-to-income ratio: A threshold should be established for debt-to-income ratio, above which loans should not be granted.
 
 
 ## Technologies Used
